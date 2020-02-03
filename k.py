@@ -1,0 +1,10 @@
+roll = {'cs1','cs2','cs3','cs4','cs1'}
+print(roll)
+roll.add("cs6")
+print(roll)
+roll.remove("cs4")
+print(roll)
+roll.pop()
+print(roll)
+roll.update({'cs2','cs3'})
+print(roll)
